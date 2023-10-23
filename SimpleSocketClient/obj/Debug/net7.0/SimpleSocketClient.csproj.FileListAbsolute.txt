@@ -1,0 +1,15 @@
+/Users/avibrodetsky/Projects/SimpleSocketClient/bin/Debug/net7.0/SimpleSocketClient
+/Users/avibrodetsky/Projects/SimpleSocketClient/bin/Debug/net7.0/SimpleSocketClient.deps.json
+/Users/avibrodetsky/Projects/SimpleSocketClient/bin/Debug/net7.0/SimpleSocketClient.runtimeconfig.json
+/Users/avibrodetsky/Projects/SimpleSocketClient/bin/Debug/net7.0/SimpleSocketClient.dll
+/Users/avibrodetsky/Projects/SimpleSocketClient/bin/Debug/net7.0/SimpleSocketClient.pdb
+/Users/avibrodetsky/Projects/SimpleSocketClient/obj/Debug/net7.0/SimpleSocketClient.csproj.AssemblyReference.cache
+/Users/avibrodetsky/Projects/SimpleSocketClient/obj/Debug/net7.0/SimpleSocketClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avibrodetsky/Projects/SimpleSocketClient/obj/Debug/net7.0/SimpleSocketClient.AssemblyInfoInputs.cache
+/Users/avibrodetsky/Projects/SimpleSocketClient/obj/Debug/net7.0/SimpleSocketClient.AssemblyInfo.cs
+/Users/avibrodetsky/Projects/SimpleSocketClient/obj/Debug/net7.0/SimpleSocketClient.csproj.CoreCompileInputs.cache
+/Users/avibrodetsky/Projects/SimpleSocketClient/obj/Debug/net7.0/SimpleSocketClient.dll
+/Users/avibrodetsky/Projects/SimpleSocketClient/obj/Debug/net7.0/refint/SimpleSocketClient.dll
+/Users/avibrodetsky/Projects/SimpleSocketClient/obj/Debug/net7.0/SimpleSocketClient.pdb
+/Users/avibrodetsky/Projects/SimpleSocketClient/obj/Debug/net7.0/SimpleSocketClient.genruntimeconfig.cache
+/Users/avibrodetsky/Projects/SimpleSocketClient/obj/Debug/net7.0/ref/SimpleSocketClient.dll
